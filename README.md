@@ -1,7 +1,7 @@
 # MERNapp
 # 
-# This is the start of a web app build solely on the MERN full stack 
-#
+# This is a Web Shopping List Application is built with MongoDB, ExpressJS, Node.js, React and Redux boilerplate as
+# a state manager. 
 #
 #
 #
